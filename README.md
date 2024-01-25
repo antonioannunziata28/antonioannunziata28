@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dev/Ops**
 
-- 💬 Ask me about **html, css, javascript, php, bootstrap, laravel**
+- 💬 Ask me about **html, css, java, javascript, php, bootstrap, laravel**
 
 - 📫 How to reach me **antonio.annunziata@aol.com**
 
